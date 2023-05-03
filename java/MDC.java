@@ -1,4 +1,3 @@
-package AmbienteDevSoftware;
 import java.util.Scanner;
 
 public class MDC{

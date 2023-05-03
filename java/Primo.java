@@ -1,5 +1,3 @@
-package AmbienteDevSoftware;
-
 import java.util.Scanner;
 public class Primo {
   public static void main(String[] args) {
